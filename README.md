@@ -52,7 +52,8 @@ high inter-individual variability.
 
 ### Heatmap — Top DE Genes
 ![heatmap](heatmap_top_genes.png)
-
+### MR Targets — Lollipop Plot
+![lollipop](MR_targets_lollipop.png)
 ## Author
 Shahrzad Zamani  
 RNA-seq pipeline built with R 4.6.0
