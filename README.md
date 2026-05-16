@@ -34,7 +34,7 @@ high inter-individual variability.
 | pheatmap | Heatmap generation |
 | tidyverse | Data wrangling |
 
-## Results
+## NR3C2 Results
 | Metric | Value |
 |--------|-------|
 | baseMean | 467.4 |
@@ -43,15 +43,16 @@ high inter-individual variability.
 | adjusted p-value | 0.931 |
 
 ## Plots
+
 ### NR3C2 Expression — Boxplot
-![boxplot](results/NR3C2_boxplot.png)
+![boxplot](NR3C2_boxplot.png)
 
 ### Volcano Plot
-![volcano](results/volcano_plot.png)
+![volcano](volcano_plot.png)
 
 ### Heatmap — Top DE Genes
-![heatmap](results/heatmap_top_genes.png)
+![heatmap](heatmap_top_genes.png)
 
 ## Author
-Shahrzad Zamani
-RNA-seq pipeline built with R 4.6.0 and RStudio
+Shahrzad Zamani  
+RNA-seq pipeline built with R 4.6.0
